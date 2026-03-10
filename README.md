@@ -103,13 +103,13 @@ const pietro = {
 
 <div align="center">
 
-🌐 **Feapex**  
-https://feapex-v1.netlify.app/
+🌐 **Portfolio**  
+https://pietro008.github.io/portfolio/
 
 <br>
 
-🍺 **Bar Barranco**  
-https://barbarrancov1.netlify.app/
+🛍 **Loja Urbana**  
+https://pietro008.github.io/loja-urbana/
 
 </div>
 
@@ -173,7 +173,7 @@ https://barbarrancov1.netlify.app/
 <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://feapex-v1.netlify.app/">
+<a href="https://pietro008.github.io/portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
